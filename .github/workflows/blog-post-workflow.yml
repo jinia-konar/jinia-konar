@@ -14,4 +14,4 @@ jobs:
       - name: Pull in medium.com posts
         uses: jinia.konar/blog-post-workflow@main
         with:
-          feed_list: "https://medium.com/feed/@jinia.konar,https://www.gautamkrishnar.com/feed/"
+          feed_list: "https://medium.com/feed/@jinia.konar"

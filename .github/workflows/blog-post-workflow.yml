@@ -12,6 +12,6 @@ jobs:
       - name: Checkout
         uses: actions/checkout@v2
       - name: Pull in medium.com posts
-        uses: jinia-konar/blog-post-workflow@main
+        uses: jinia-konar/jinia-konar@main
         with:
           feed_list: "https://medium.com/feed/@jinia.konar"
